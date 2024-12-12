@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E3226&height=300&section=header&text=My%20Data%20Science%20Journey&fontColor=FBEDC3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0033FF,50:977DFF,100:FFCCF2&height=300&section=header&text=My%20Data%20Science%20Journey&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&stroke=000000&strokeWidth=2)
 
 
 
