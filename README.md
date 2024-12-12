@@ -1,8 +1,8 @@
-# About Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My%20Data%20Science%20Journey&ftextalign=center)
 
 Hello! I am an aspiring data scientist, currently completing a comprehensive 9-month Data Science Bootcamp, which concludes in April 2025. Through this intensive program, I have gained hands-on experience and theoretical knowledge across a variety of data science topics, tools, and methodologies. This journey has empowered me to tackle real-world problems by leveraging data to uncover insights and make impactful decisions.
 
-# My Data Science Journey
+# 
 
 This bootcamp has been structured to provide a well-rounded education in data science, covering both foundational and advanced concepts. It emphasizes practical applications through real-world projects that showcase:
 
@@ -22,7 +22,7 @@ This bootcamp has been structured to provide a well-rounded education in data sc
 
 - **Storytelling with Data**: Communicating findings effectively through dashboards, visualizations, and reports.
 
-# Why These Projects Matter
+## Why These Projects Matter
 
 Each project is designed to simulate real-world scenarios, allowing me to:
 
