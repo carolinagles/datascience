@@ -1,7 +1,7 @@
 # Interconnect Insights: Customer Churn Prediction
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to build a binary classification model to predict customer churn for **Interconnect**, a telecommunications operator. The goal is to help the company proactively retain customers by identifying those most likely to cancel their service. The target variable is **Churn** (Yes/No), and the main evaluation metric is **AUC-ROC**, with a minimum threshold of **0.85**. Additionally, we use **F1-score** (threshold: 0.75) and **accuracy** for model evaluation.
 
@@ -12,7 +12,7 @@ The dataset includes customer information regarding:
 * **Contract information**
 * **Internet and phone services subscribed**
 
-## 🧾 Data Sources
+## Data Sources
 
 The data is split across four files:
 
@@ -23,24 +23,24 @@ The data is split across four files:
 
 All files share the unique identifier `customerID`. The contract data is valid from **February 1, 2020**.
 
-## 🛠️ Libraries Used
+##  Libraries Used
 
-### 📊 Data Handling
+###  Data Handling
 
 * `pandas` – Data manipulation and analysis
 * `numpy` – Numerical operations
 * `re` – Regex for text processing
 
-### 📈 Visualization
+###  Visualization
 
 * `matplotlib.pyplot` – Plotting charts and graphs
 
-### ⚠️ Utilities
+###  Utilities
 
 * `time` – Model timing
 * `warnings` – Suppress warning messages
 
-### 🤖 Machine Learning & Metrics
+###  Machine Learning & Metrics
 
 * `sklearn`:
 
@@ -54,7 +54,7 @@ All files share the unique identifier `customerID`. The contract data is valid f
 
 * `imblearn.over_sampling.SMOTE` – Oversampling for class imbalance
 
-### ⚡ Advanced Models
+###  Advanced Models
 
 * `lightgbm.LGBMClassifier` – Gradient boosting model (fast & efficient)
 * `xgboost.XGBClassifier` – eXtreme Gradient Boosting
