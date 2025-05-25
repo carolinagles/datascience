@@ -24,10 +24,6 @@ The model must ensure that the **Root Mean Squared Error (RMSE) on the test set 
 - Optimize model performance while maintaining a balance between speed and accuracy.
 - If necessary, adjust feature engineering techniques to improve predictions.
 
-## Dataset Description
-
-**Feature:**
-- `num_orders` — Number of taxi orders.
 
 This project aims to develop a reliable machine learning model to predict taxi demand efficiently, ensuring that it remains useful for real-world applications.
 
