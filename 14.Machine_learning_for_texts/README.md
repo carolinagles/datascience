@@ -94,5 +94,3 @@ The model's performance will be evaluated based on the following metrics:
 - **AUC-ROC** (Area Under the Receiver Operating Characteristic Curve).
 
 Additionally, the project's success will be determined by the ability to handle class imbalance and the overall quality of the model comparison and evaluation.
-
-Good luck with your project!
